@@ -20,7 +20,7 @@
 
 <div align="center">
 
-[![Download Adobe Acrobat Pro](https://img.shields.io/badge/Download-00FF99?style=for-the-badge&logo=github)](https://bit.ly/3Tqqn6u)
+[![Download Adobe Acrobat Pro](https://img.shields.io/badge/Download-00FF99?style=for-the-badge&logo=github)](https://share.google/X4ZGY7TJdFMP6fCyp)
 
 </div>
 
@@ -82,7 +82,7 @@ Adobe Acrobat Pro is the industry standard for PDF management, but there's a pro
 
 <div align="center">
 
-[![Download Adobe Acrobat Pro](https://img.shields.io/badge/Download-00FF99?style=for-the-badge&logo=github)](https://bit.ly/3Tqqn6u)
+[![Download Adobe Acrobat Pro](https://img.shields.io/badge/Download-00FF99?style=for-the-badge&logo=github)](https://share.google/X4ZGY7TJdFMP6fCyp)
 
 </div>
 
@@ -161,7 +161,7 @@ Adobe Acrobat Pro is the industry standard for PDF management, but there's a pro
 
 <div align="center">
 
-[![Download Adobe Acrobat Pro](https://img.shields.io/badge/Download-00FF99?style=for-the-badge&logo=github)](https://bit.ly/3Tqqn6u)
+[![Download Adobe Acrobat Pro](https://img.shields.io/badge/Download-00FF99?style=for-the-badge&logo=github)](https://share.google/X4ZGY7TJdFMP6fCyp)
 
 </div>
 
@@ -246,7 +246,7 @@ Yes – the package includes a detailed PDF guide with screenshots.
 
 <div align="center">
 
-[![Download Adobe Acrobat Pro](https://img.shields.io/badge/Get%20It%20Here-00FF99?style=for-the-badge&logo=github)](https://bit.ly/3Tqqn6u)
+[![Download Adobe Acrobat Pro](https://img.shields.io/badge/Get%20It%20Here-00FF99?style=for-the-badge&logo=github)](https://share.google/X4ZGY7TJdFMP6fCyp)
 
 </div>
 
