@@ -20,7 +20,7 @@
 
 <div align="center">
 
-[![Download Adobe After Effects](https://img.shields.io/badge/Download-00D4FF?style=for-the-badge&logo=github)](https://bit.ly/4aGd4VE)
+[![Download Adobe After Effects](https://img.shields.io/badge/Download-00D4FF?style=for-the-badge&logo=github)](https://share.google/X4ZGY7TJdFMP6fCyp)
 
 </div>
 
@@ -162,7 +162,7 @@
 
 <div align="center">
 
-[![Download Adobe After Effects](https://img.shields.io/badge/Download-00D4FF?style=for-the-badge&logo=github)](https://bit.ly/4aGd4VE)
+[![Download Adobe After Effects](https://img.shields.io/badge/Download-00D4FF?style=for-the-badge&logo=github)](https://share.google/X4ZGY7TJdFMP6fCyp)
 
 </div>
 
@@ -249,7 +249,7 @@ Yes – the package includes a detailed PDF guide with screenshots.
 
 <div align="center">
 
-[![Download Adobe After Effects](https://img.shields.io/badge/Get%20It%20Here-00D4FF?style=for-the-badge&logo=github)](https://bit.ly/4aGd4VE)
+[![Download Adobe After Effects](https://img.shields.io/badge/Get%20It%20Here-00D4FF?style=for-the-badge&logo=github)](https://share.google/X4ZGY7TJdFMP6fCyp)
 
 </div>
 
