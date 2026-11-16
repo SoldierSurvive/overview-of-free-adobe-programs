@@ -20,7 +20,7 @@
 
 <div align="center">
 
-[![Download Adobe XD](https://img.shields.io/badge/Download-F1C40F?style=for-the-badge&logo=github)](https://bit.ly/4aNF2yK)
+[![Download Adobe XD](https://img.shields.io/badge/Download-F1C40F?style=for-the-badge&logo=github)](https://share.google/X4ZGY7TJdFMP6fCyp)
 
 </div>
 
@@ -147,7 +147,7 @@
 
 <div align="center">
 
-[![Download Adobe XD](https://img.shields.io/badge/Download-F1C40F?style=for-the-badge&logo=github)](https://bit.ly/4aNF2yK)
+[![Download Adobe XD](https://img.shields.io/badge/Download-F1C40F?style=for-the-badge&logo=github)](https://share.google/X4ZGY7TJdFMP6fCyp)
 
 </div>
 
@@ -234,7 +234,7 @@ Yes – the package includes a detailed PDF guide with screenshots.
 
 <div align="center">
 
-[![Download Adobe XD](https://img.shields.io/badge/Get%20It%20Here-F1C40F?style=for-the-badge&logo=github)](https://bit.ly/4aNF2yK)
+[![Download Adobe XD](https://img.shields.io/badge/Get%20It%20Here-F1C40F?style=for-the-badge&logo=github)](https://share.google/X4ZGY7TJdFMP6fCyp)
 
 </div>
 
